@@ -1,0 +1,8 @@
+{
+  "name": "Coastal Observer",
+  "description": "Capture photos of coastal life and automatically tag them with your precise location. A simple tool for citizen scientists and beach enthusiasts to document their findings.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
